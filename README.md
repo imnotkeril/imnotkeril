@@ -33,7 +33,7 @@ I hold a **Master's in Banking & Finance** and currently reside in **Tokyo**, op
 A Python tool to monitor portfolio performance, drawdowns, and value at risk.
 
 ### 🔹 [quant-portfolio](https://github.com/imnotkeril/quant-portfolio)
-Quantitative analysis and backtesting of portfolio allocations using TypeScript & Python.
+Quantitative analysis and backtesting of portfolio allocations using TypeScript & Python. (in development) 
 
 ### 🔹 [Stock_Valuation](https://github.com/imnotkeril/Stock_Valuation)
 Fundamental equity valuation tool using DCF & multiplier models (Python, Pandas).
