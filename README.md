@@ -38,7 +38,7 @@ Quantitative analysis and backtesting of portfolio allocations using TypeScript 
 ### 🔹 [Stock_Valuation](https://github.com/imnotkeril/Stock_Valuation)
 Fundamental equity valuation tool using DCF & multiplier models (Python, Pandas).
 
-### 🔹[https://github.com/imnotkeril/mortgage_pro)
+### 🔹[mortgage_pro](https://github.com/imnotkeril/mortgage_pro)
 A comprehensive, professional-grade mortgage calculator (React, Flask).
 ---
 
