@@ -76,8 +76,3 @@ A comprehensive, professional-grade mortgage calculator (React, Flask).
 - 📬 Telegram: [@imnotkeril](https://t.me/imnotkeril)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imnotkeril&show_icons=true&theme=algolia" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnotkeril&layout=compact&theme=algolia" alt="langs"/>
-</p>
