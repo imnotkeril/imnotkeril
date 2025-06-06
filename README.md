@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kirill Ivanov 👋</h1>
+<h1 align="center">Hi, I'm Kirill👋</h1>
 
 <p align="center">
   🎓 Quantitative Analyst | 💹 Trader | 🧠 Portfolio Manager <br>
