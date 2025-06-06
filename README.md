@@ -63,9 +63,9 @@ A comprehensive, professional-grade mortgage calculator (React, Flask).
 
 ## 🌏 Languages
 
-- 🇬🇧 English (C1)
-- 🇯🇵 Japanese (N3, studying for N2)
-- 🇷🇺 Russian (native)
+- English (C1)
+- Japanese (N3, studying for N2)
+- Russian (native)
 
 ---
 
