@@ -29,7 +29,7 @@ I hold a **Master's in Banking & Finance** and currently reside in **Tokyo**, op
 
 ## 📌 Pinned Projects
 
-### 🔹 [Investment-Portfolio-Management-System](https://github.com/imnotkeril/Investment-Portfolio-Management-System)
+### 🔹 [Portfolio Analysis System](https://github.com/imnotkeril/Investment-Portfolio-Management-System)
 A Python tool to monitor portfolio performance, drawdowns, and value at risk.
 
 ### 🔹 [quant-portfolio 🔄 In Development](https://github.com/imnotkeril/quant-portfolio)
