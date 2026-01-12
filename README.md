@@ -29,8 +29,9 @@ I hold a **Master's in Banking & Finance** and currently reside in **Tokyo**, op
 
 ## 📌 Pinned Projects
 
-### 🔹 [Portfolio Analysis System](https://github.com/imnotkeril/Investment-Portfolio-Management-System)
+### 🔹 [Portfolio_Management_Pro](https://github.com/imnotkeril/Portfolio_Management_Pro) 
 A Python tool to monitor portfolio performance, drawdowns, and value at risk.
+Old Version [Portfolio Analysis System](https://github.com/imnotkeril/Investment-Portfolio-Management-System) 
 
 ### 🔹 [quant-portfolio 🔄 In Development](https://github.com/imnotkeril/quant-portfolio)
 Quantitative analysis and backtesting of portfolio allocations using TypeScript & Python. (in development) 
@@ -66,13 +67,14 @@ A comprehensive, professional-grade mortgage calculator (React, Flask).
 - English (C1)
 - Japanese (N3, studying for N2)
 - Russian (native)
+- Korean (know alphabet)
 
 ---
 
 ## 📫 Contact Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ivanovkirill99/)
-- ✉️ keril420jp@gmail.com
+- ✉️ kirill.ivanov.jp@gmail.com 
 - 🌐 [linktr.ee/imnotkeril](https://linktr.ee/imnotkeril)
 - 📬 Telegram: [@imnotkeril](https://t.me/imnotkeril)
 
