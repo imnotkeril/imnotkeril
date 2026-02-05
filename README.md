@@ -33,6 +33,9 @@ I hold a **Master's in Banking & Finance** and currently reside in **Tokyo**, op
 A Python tool to monitor portfolio performance, drawdowns, and value at risk.
 Old Version [Portfolio Analysis System](https://github.com/imnotkeril/Investment-Portfolio-Management-System) 
 
+### 🔹 [https://github.com/imnotkeril/Portfolio_Management_Pro](https://github.com/imnotkeril/statistical-arbitrage-pairs-screener)
+A modular system for screening cryptocurrency pairs for statistical arbitrage opportunities.
+
 ### 🔹 [Stock_Valuation 🔄 In Development](https://github.com/imnotkeril/Stock_Valuation)
 Fundamental equity valuation tool using DCF & multiplier models (Python, Pandas).
 
