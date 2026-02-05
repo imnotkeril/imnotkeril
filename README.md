@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Kirill👋</h1>
+<h1 align="center">Hi, I'm Kirill</h1>
 
 <p align="center">
-  🎓 Quantitative Analyst | 💹 Trader | 🧠 Portfolio Manager <br>
-  🇯🇵 Based in Tokyo | 🔍 Open to global finance/crypto positions
+  Quantitative Analyst | Trader | Portfolio Manager <br>
+  🇯🇵 Based in Tokyo | Open to global finance/crypto positions
 </p>
 
 <p align="center">
@@ -14,20 +14,20 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a finance professional and trader with 5+ years of hands-on experience in cryptocurrency and equity markets. I specialize in:
 
-- 📊 Portfolio & risk management
-- 💹 Algorithmic and quantitative trading
-- 🔬 Market microstructure & on-chain analysis
-- 🧮 Macroeconomics, valuation & hedging strategies
+- Portfolio & risk management
+- Algorithmic and quantitative trading
+- Market microstructure & on-chain analysis
+- Macroeconomics, valuation & hedging strategies
 
 I hold a **Master's in Banking & Finance** and currently reside in **Tokyo**, open to positions here or globally (especially in Singapore, Seoul, or Shanghai). Recently I have started actively developing trading systems and finance tools using Python and TypeScript.
 
 ---
 
-## 📌 Pinned Projects
+##  Pinned Projects
 
 ### 🔹 [Portfolio_Management_Pro](https://github.com/imnotkeril/Portfolio_Management_Pro) 
 A Python tool to monitor portfolio performance, drawdowns, and value at risk.
@@ -44,15 +44,15 @@ A comprehensive, professional-grade mortgage calculator (React, Flask).
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
-### 🧠 Finance & Quant
+### Finance & Quant
 `Portfolio Optimization` • `Risk Management` • `Options & Hedging` • `Market Microstructure` • `Statistical Arbitrage`
 
-### 📈 Trading & Research
+### Trading & Research
 `Algorithmic Trading` • `Order Book Analysis` • `On-Chain Analysis` • `Macro Research` • `Backtesting`
 
-### 💻 Tech & Tools
+### Tech & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -62,7 +62,7 @@ A comprehensive, professional-grade mortgage calculator (React, Flask).
 
 ---
 
-## 🌏 Languages
+## Languages
 
 - English (C1)
 - Japanese (N3, studying for N2)
@@ -71,11 +71,11 @@ A comprehensive, professional-grade mortgage calculator (React, Flask).
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ivanovkirill99/)
-- ✉️ kirill.ivanov.jp@gmail.com 
-- 🌐 X: [x.com/imnotkeril](https://x.com/imnotkeril)
-- 📬 Telegram: [@imnotkeril](https://t.me/imnotkeril)
+- [LinkedIn](https://www.linkedin.com/in/ivanovkirill99/)
+- kirill.ivanov.jp@gmail.com 
+- X: [x.com/imnotkeril](https://x.com/imnotkeril)
+- Telegram: [@imnotkeril](https://t.me/imnotkeril)
 
 ---
