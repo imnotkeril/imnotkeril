@@ -14,19 +14,6 @@
 
 ---
 
-## About Me
-
-I'm a finance professional and trader with 5+ years of hands-on experience in cryptocurrency and equity markets. I specialize in:
-
-- Portfolio & risk management
-- Algorithmic and quantitative trading
-- Market microstructure & on-chain analysis
-- Macroeconomics, valuation & hedging strategies
-
-I hold a **Master's in Banking & Finance** and currently reside in **Tokyo**, open to positions here or globally (especially in Singapore, Seoul, or Shanghai). Recently I have started actively developing trading systems and finance tools using Python and TypeScript.
-
----
-
 ##  Pinned Projects
 
 ### 🔹 [Portfolio_Management_Pro](https://github.com/imnotkeril/Portfolio_Management_Pro) 
