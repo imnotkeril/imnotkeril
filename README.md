@@ -2,7 +2,7 @@
 
 <p align="center">
   Quantitative Analyst | Trader | Portfolio Manager <br>
-  🇯🇵 Based in Tokyo | Open to global finance/crypto positions
+  🇯🇵 Based in Tokyo | Open to global finance/tech/crypto positions
 </p>
 
 <p align="center">
