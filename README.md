@@ -63,7 +63,5 @@ A comprehensive, professional-grade mortgage calculator (React, Flask).
 
 - [LinkedIn](https://www.linkedin.com/in/ivanovkirill99/)
 - kirill.ivanov.jp@gmail.com 
-- X: [x.com/imnotkeril](https://x.com/imnotkeril)
-- Telegram: [@imnotkeril](https://t.me/imnotkeril)
 
 ---
