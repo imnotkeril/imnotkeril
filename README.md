@@ -8,8 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ivanovkirill99/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:keril420jp@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linktr.ee/imnotkeril"><img src="https://img.shields.io/badge/Linktree-green?logo=linktree&logoColor=white" alt="Linktree"/></a>
-  <a href="https://t.me/imnotkeril"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
 ---
