@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Kirill</h1>
 
 <p align="center">
-  Quantitative Analyst | Trader | Portfolio Manager <br>
-  🇯🇵 Based in Tokyo | Open to global finance/tech/crypto positions
+  Product Manager | Financial Analyst | Developer<br>
+  🇯🇵 Based in Tokyo | MSc Finance<br>
+  Open to PM, Business Analyst, and IT roles
 </p>
 
 <p align="center">
@@ -15,47 +16,58 @@
 ##  Pinned Projects
 
 ### 🔹 [Portfolio_Management_Pro](https://github.com/imnotkeril/Portfolio_Management_Pro) 
-A Python tool to monitor portfolio performance, drawdowns, and value at risk.
+Python · FastAPI · PostgreSQL · TypeScript · Next.js · Docker<br>
+Full-stack investment portfolio management system. 70+ performance and risk metrics, 18 optimization methods, 4 VaR types, Monte Carlo simulation, stress-testing, 9 forecasting models.<br>
 Old Version [Portfolio Analysis System](https://github.com/imnotkeril/Investment-Portfolio-Management-System) 
 
-### 🔹 [Statistical Arbitrage Pairs Screener](https://github.com/imnotkeril/statistical-arbitrage-pairs-screener)
-A modular system for screening cryptocurrency pairs for statistical arbitrage opportunities.
-
 ### 🔹 [MacroLens](https://github.com/imnotkeril/macrolens)
-Macro trading and analysis framework
+Python · FastAPI · PostgreSQL · TypeScript · Next.js · Docker<br>
+Professional macro trading terminal. 3-layer analysis (FRED economic indicators, Fed policy score, yield curve) feeding a 2×2 regime matrix (Risk-On / Growth / Value / Risk-Off) with concrete trading ideas and asset allocation targets.
 
-### 🔹 [Stock Analysis System 🔄 In Development](https://github.com/imnotkeril/Stock_Valuation)
-Fundamental equity valuation tool using DCF & multiplier models (Python, Pandas).
-
-### 🔹[Mortgage Calculator Pro](https://github.com/imnotkeril/mortgage_pro)
-A comprehensive, professional-grade mortgage calculator (React, Flask).
+### 🔹 [Statistical Arbitrage Pairs Screener](https://github.com/imnotkeril/statistical-arbitrage-pairs-screener)
+Python · FastAPI · React · TypeScript · PostgreSQL · statsmodels · Docker<br>
+Modular screener for identifying cointegrated cryptocurrency pairs on Binance. ADF p-value and correlation threshold screening, ranked opportunity list with heatmap visualization.
 
 ---
 
 ## Skills & Tools
 
-### Finance & Quant
-`Portfolio Optimization` • `Risk Management` • `Options & Hedging` • `Market Microstructure` • `Statistical Arbitrage`
+### Product
+`Product Discovery` • `Roadmap Planning` • `Backlog Management` • `PRD/MRD Writing` • `OKR/KPI Definition` • `A/B Testing` • `Stakeholder Management`
 
-### Trading & Research
-`Algorithmic Trading` • `Order Book Analysis` • `On-Chain Analysis` • `Macro Research` • `Backtesting`
+### Finance & Quant
+`Portfolio Optimization` • `Risk Management` • `Options & Hedging` • `Market Microstructure` • `Statistical Arbitrage` • `Macroeconomic Analysis` • `Order Book Analysis`
+
+### Engineering
+`Python (Pandas, NumPy, SciPy, Plotly)` • `SQL/PostgreSQL` • `FastAPI` • `JavaScript` • `TypeScript` • `Next.js` • `Docker` • `Git`
+
+### AI & Automation
+`LLM APIs (OpenAI, Anthropic)` • `Prompt Engineering` • `AI Integration` • `n8n Workflow Automation` 
 
 ### Tech & Tools
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![TradingView](https://img.shields.io/badge/TradingView-0A0A0A?style=flat&logo=tradingview&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-orange?style=flat)
 
 ---
 
 ## Languages
 
-- English (C1)
-- Japanese (N3, studying for N2)
-- Russian (native)
-- Korean (know alphabet)
+🇷🇺 Russian (Native) · 🇬🇧 English (C1 / Business) · 🇯🇵 Japanese (Daily conversation · JLPT N2 Dec 2026) · 🇰🇷 Korean (alphabet)
 
 ---
 
