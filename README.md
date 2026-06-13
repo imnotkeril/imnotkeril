@@ -3,7 +3,7 @@
 <p align="center">
   Product Manager | Financial Analyst | Developer<br>
   🇯🇵 Based in Tokyo | MSc Finance<br>
-  Open to PM, Business Analyst, and IT roles
+  Open to PM, Business Analyst, IT & Finance roles
 </p>
 
 <p align="center">
