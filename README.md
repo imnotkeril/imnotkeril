@@ -18,11 +18,12 @@
 ### 🔹 [Portfolio_Management_Pro](https://github.com/imnotkeril/Portfolio_Management_Pro) 
 Python · FastAPI · PostgreSQL · TypeScript · Next.js · Docker<br>
 Full-stack investment portfolio management system. 70+ performance and risk metrics, 18 optimization methods, 4 VaR types, Monte Carlo simulation, stress-testing, 9 forecasting models.<br>
- [Live](https://portfolio-management-pro-taupe.vercel.app/) 
+ [Live](https://portfolio-lenz.vercel.app/) 
 
 ### 🔹 [MacroLens](https://github.com/imnotkeril/macrolens)
 Python · FastAPI · PostgreSQL · TypeScript · Next.js · Docker<br>
 Professional macro trading terminal. 3-layer analysis (FRED economic indicators, Fed policy score, yield curve) feeding a 2×2 regime matrix (Risk-On / Growth / Value / Risk-Off) with concrete trading ideas and asset allocation targets.
+[Live](https://macrolenz.vercel.app/) 
 
 ### 🔹 [Statistical Arbitrage Pairs Screener](https://github.com/imnotkeril/statistical-arbitrage-pairs-screener)
 Python · FastAPI · React · TypeScript · PostgreSQL · statsmodels · Docker<br>
