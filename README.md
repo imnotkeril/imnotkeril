@@ -18,7 +18,7 @@
 ### 🔹 [Portfolio_Management_Pro](https://github.com/imnotkeril/Portfolio_Management_Pro) 
 Python · FastAPI · PostgreSQL · TypeScript · Next.js · Docker<br>
 Full-stack investment portfolio management system. 70+ performance and risk metrics, 18 optimization methods, 4 VaR types, Monte Carlo simulation, stress-testing, 9 forecasting models.<br>
-Old Version [Portfolio Analysis System](https://github.com/imnotkeril/Investment-Portfolio-Management-System) 
+ [Live](https://portfolio-management-pro-taupe.vercel.app/) 
 
 ### 🔹 [MacroLens](https://github.com/imnotkeril/macrolens)
 Python · FastAPI · PostgreSQL · TypeScript · Next.js · Docker<br>
