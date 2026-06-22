@@ -22,7 +22,7 @@ Full-stack investment portfolio management system. 70+ performance and risk metr
 
 ### 🔹 [MacroLens](https://github.com/imnotkeril/macrolens)
 Python · FastAPI · PostgreSQL · TypeScript · Next.js · Docker<br>
-Professional macro trading terminal. 3-layer analysis (FRED economic indicators, Fed policy score, yield curve) feeding a 2×2 regime matrix (Risk-On / Growth / Value / Risk-Off) with concrete trading ideas and asset allocation targets.
+Professional macro trading terminal. 3-layer analysis (FRED economic indicators, Fed policy score, yield curve) feeding a 2×2 regime matrix (Risk-On / Growth / Value / Risk-Off) with concrete trading ideas and asset allocation targets.<br>
 [Live](https://macrolenz.vercel.app/) 
 
 ### 🔹 [Statistical Arbitrage Pairs Screener](https://github.com/imnotkeril/statistical-arbitrage-pairs-screener)
