@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Kirill</h1>
 
 <p align="center">
-  AI Engineer & Product Manager | Financial Analyst | Developer<br>
+  AI Engineer & Product Manager<br>
   🇯🇵 Based in Tokyo | MSc Finance<br>
-  Open to PM, Business Analyst, IT & Finance roles
+  Open to SE, PM, Business Analyst, IT & Finance roles
 </p>
 
 <p align="center">
