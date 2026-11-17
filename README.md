@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Kirill</h1>
 
 <p align="center">
-  <b>AI Engineer &amp; Full-stack Developer for fintech</b><br>
-  Product manager background · MSc Finance · Tokyo<br>
+  <b>AI Engineer &amp; Full-stack Developer</b><br>
+  Product manager background in fintech · MSc Finance · Tokyo<br>
 </p>
 
 <p align="center">
