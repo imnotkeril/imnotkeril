@@ -3,7 +3,6 @@
 <p align="center">
   <b>AI Engineer &amp; Full-stack Developer for fintech</b><br>
   Product manager background · MSc Finance · Tokyo<br>
-  <sub>東京在住。AI・フルスタックエンジニア（フィンテック）。</sub>
 </p>
 
 <p align="center">
